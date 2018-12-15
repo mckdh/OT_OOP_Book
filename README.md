@@ -1,6 +1,6 @@
 # 한번 읽으면 두번 깨닫는 객체지향 프로그램
 
-이 프로젝트는 이 책의 소스를 제공합니다. (This project provides a source of a book in Korea, which name is The OOP that Once Read And Twice Realize.)
+이 프로젝트는 이 책의 소스를 제공합니다. (This project provides a source of a book in Korea, which name is The OOP Programming that Once Read And Twice Realize.)
 
 ## 프로젝트 설치
 1. 이 GitHub 우측 상단의 Clone or download로 소스 파일을 다운로드 받습니다.
