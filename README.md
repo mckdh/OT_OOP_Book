@@ -21,4 +21,5 @@
 * 기타 문의사항은 airqjang@gmail.com로 부탁드립니다.
 
 ## 책 표지
-![k-004](https://user-images.githubusercontent.com/11452935/50042149-7559cf00-00a3-11e9-8ef1-a3f1c705c16e.png)
+![f](https://user-images.githubusercontent.com/11452935/51438922-2c2a1a00-1cf6-11e9-8ae4-3308ba0b95c2.jpg)
+
