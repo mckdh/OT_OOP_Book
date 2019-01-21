@@ -1,4 +1,4 @@
-# 한번 읽으면 두번 깨닫는 객체지향 프로그, e비즈북스
+# 한번 읽으면 두번 깨닫는 객체지향 프로그래밍, e비즈북스
 
 이 프로젝트는 이 책의 소스를 제공합니다. (This project provides a source of a book in Korea, which name is The OOP Programming that Once Read And Twice Realize.)
 
