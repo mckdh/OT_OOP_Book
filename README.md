@@ -25,6 +25,7 @@ Modules를 보시면 SDK가 일치 하지 않는다고 할 수 있습니다.
 
 ## 기타/문의사항
 * 기타 문의사항은 airqjang@gmail.com로 부탁드립니다.
+* 블로그는 http://mckdh.tistory.com 입니다.
 
 ## 책 표지
 ![f](https://user-images.githubusercontent.com/11452935/51438922-2c2a1a00-1cf6-11e9-8ae4-3308ba0b95c2.jpg)
