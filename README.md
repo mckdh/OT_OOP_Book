@@ -27,10 +27,10 @@ Modules를 보시면 SDK가 일치 하지 않는다고 할 수 있습니다.
 * 기타 문의사항은 airqjang@gmail.com로 부탁드립니다.
 * 블로그는 http://mckdh.tistory.com 입니다.
 * 온라인 서점 링크
-▶ Yes24: http://bitly.kr/DAg9t
-▶ 알라딘: http://bitly.kr/aSMu2
-▶ 교보문고: http://bitly.kr/utfU7
-▶ 인터파크: http://bitly.kr/ffJjy
+* Yes24: http://bitly.kr/DAg9t
+* 알라딘: http://bitly.kr/aSMu2
+* 교보문고: http://bitly.kr/utfU7
+* 인터파크: http://bitly.kr/ffJjy
 
 ## 재미있는 책 비하인드 스토리
 * 이 책의 배경에는 형의권이라는 무술이 있다?
