@@ -23,9 +23,16 @@ Modules를 보시면 SDK가 일치 하지 않는다고 할 수 있습니다.
 * 각 package의 LauncherWW2.java등 main 메소드가 있는 클래스를 찾아 실행합니다.
 * 또는, 각 package의 ~Test.java등 JUnit가 있는 클래스를 찾아 실행합니다.(유닛 테스트를 실습하려면 이 클래스를 적절하게 직접 변경해서 실습해보세요.)
 
-## 기타/문의사항
+## 관련 사이트
 * 기타 문의사항은 airqjang@gmail.com로 부탁드립니다.
 * 블로그는 http://mckdh.tistory.com 입니다.
+
+## 재미있는 책 비하인드 스토리
+* 이 책의 배경에는 형의권이라는 무술이 있다. 
+https://cafe.naver.com/xingyiyanjiu/3251
+
+* 출판사 부장님의 비하인드 스토리
+https://blog.naver.com/ebizbooks/221471093667
 
 ## 책 표지
 ![f](https://user-images.githubusercontent.com/11452935/51438922-2c2a1a00-1cf6-11e9-8ae4-3308ba0b95c2.jpg)
