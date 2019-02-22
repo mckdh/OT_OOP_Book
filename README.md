@@ -43,7 +43,7 @@ Modules를 보시면 SDK가 일치 하지 않는다고 할 수 있습니다.
 ## 책 표지
 ![f](https://user-images.githubusercontent.com/11452935/51438922-2c2a1a00-1cf6-11e9-8ae4-3308ba0b95c2.jpg)
 
-## 1쇄 정오표
+## 정오표
 p54, 바로 문법과 언어다.
 -> 바로 문법과 사상이다.
 
