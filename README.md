@@ -26,6 +26,8 @@ Modules를 보시면 SDK가 일치 하지 않는다고 할 수 있습니다.
 ## 저자 소통 채널
 * 기타 문의사항은 airqjang@gmail.com로 부탁드립니다.
 * 유튜브 채널은 https://www.youtube.com/channel/UCzemDYwr96htgFbZbh0l77w 입니다.
+* 팟캐스트(유튜브 오디오 버전, 팟빵)은 http://www.podbbang.com/ch/1770384 ,
+* 팟캐스트(유튜브 오디오 버전, 아이튠즈)는 http://pod.ssenhosting.com/rss/pb_25519/pbchannel_33642.xml 입니다.
 * 블로그는 http://mckdh.tistory.com 입니다.
 
 ## 온라인 서점 링크
