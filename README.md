@@ -23,6 +23,10 @@ Modules를 보시면 SDK가 일치 하지 않는다고 할 수 있습니다.
 * 각 package의 LauncherWW2.java등 main 메소드가 있는 클래스를 찾아 실행합니다.
 * 또는, 각 package의 ~Test.java등 JUnit가 있는 클래스를 찾아 실행합니다.(유닛 테스트를 실습하려면 이 클래스를 적절하게 직접 변경해서 실습해보세요.)
 
+## 책 미리보기/목차
+* https://github.com/mckdh/OT_OOP_Book/wiki
+* 우리에게 친숙한 '메소드'를 미리보기로 상세하게 설명합니다.
+
 ## 저자 소통 채널
 * 기타 문의사항은 airqjang@gmail.com로 부탁드립니다.
 * 유튜브 채널은 https://www.youtube.com/channel/UCzemDYwr96htgFbZbh0l77w 입니다.
