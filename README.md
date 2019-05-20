@@ -33,10 +33,23 @@ Modules를 보시면 SDK가 일치 하지 않는다고 할 수 있습니다.
 * 유튜브와 팟캐스트 조만간 (다시) 개설 예정입니다.
 
 ## 온라인 서점 링크
-* Yes24: http://bitly.kr/DAg9t
+* Yes24: http://www.yes24.com/Product/Goods/69723451
 * 알라딘: http://bitly.kr/aSMu2
 * 교보문고: http://bitly.kr/utfU7
 * 인터파크: http://bitly.kr/ffJjy
+
+## 유명 블로거/유튜버 리뷰
+* 프로그래머 삶님 블로거 리뷰 
+"이책은 앞으로 개발자 인생에 좋은 이정표가 될것이다."
+https://coderlife.tistory.com/621
+
+* 블로거 열이아빠님 리뷰
+"'객체지향'이 본격적으로 주인공으로 등장하는 책으로서 이 책은 가치가 있습니다"
+https://koko8829.tistory.com/2024
+
+* 유튜버 아샬님 리뷰
+"이 책은 혼자서 다시 객체지향을 공부하고 싶은 사람에게 굉장히 좋다."
+https://www.youtube.com/watch?v=4rAWL6AgOFY
 
 ## 재미있는 책 비하인드 스토리
 * 이 책의 배경에는 형의권이라는 무술이 있다?
