@@ -8,8 +8,8 @@
 1. Download this project through “Clone or download” button.
 2. Import this project in the Eclipse or other IDE.
 3. If you want to use InteliJ.
-4. Open the project
-5. Click Project root folder > mouse right button > Open module settings
+4. Open the project in InteliJ.
+5. Click Project root folder > mouse right button > Open module settings.
 6. Maybe, The IDE shows that the SDK doesn’t match.
 7. Click Module SDK and choose the SDK that you use.
 8. If you can not install this project, you can ask below email.
