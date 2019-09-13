@@ -1,4 +1,9 @@
 # Explain this book in English
+
+## Book preview and table of contents
+https://github.com/mckdh/OT_OOP_Book/wiki
+This page shows one of the articles in the book, which is about “Method”
+
 ## Install this project
 1. Download this project through “Clone or download” button.
 2. Import this project in the Eclipse or other IDE.
@@ -19,35 +24,6 @@ decorator : The sources for decorator pattern
 ## Run this project
 Finding Launcher*.java that has main method in a package.
 Also, finding ~Test.java based has JUnit class, but you need to modify these test codes.
-
-## Table of contents
-Part 1. The way of turning around
- Chapter1. The way of turning around for the definition and goal of OOP
- Chapter2. The way of turning around for the stereotype of OOP
-Part 2. The tools that help OOP
- Chapter1. The tools of thinking for OOP(Observation, Abstraction, Pattern recognition)
- Chapter2. UML
-Part 3. The area of OOP
- Chapter1. The basic elements for OOP
-  Object, Class, Attribute, Method, Constructor
- Chapter2. The basic technique for OOP
-  Outline, Inheritance, Overloading, Overriding, Polymorphism, Encapsulation, Interface, Delegation
- Chapter3. The principle for OOP
-	a.	SRP(Single Responsibility Principle)
-	b.	OCP(Open Closed Principle)
-	c.	LSP(Liskov Substitution Principle)
-	d.	ISP(Interface Segregation Principle)
-	e.	DRY(Don’t Repeat Yourself)/DIP(Dependency Inversion Principle)
-Part 4. The depth of design pattern
- Chapter1 Strategy pattern
- Chapter2 State pattern
- Chapter3 Template method pattern
- Chapter4 Decorator pattern
-Part 5. a Point for OOP
- Chapter1 a point for OOP
- Chapter2 Objective-C and Spring Framework
- Chapter3 RDB
- Chapter4 Functional Programming
 
 # 한번 읽으면 두번 깨닫는 객체지향 프로그래밍, e비즈북스
 
