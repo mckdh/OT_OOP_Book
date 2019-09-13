@@ -1,8 +1,8 @@
 # Explain this book in English
 
 ## Book preview and table of contents
-https://github.com/mckdh/OT_OOP_Book/wiki
-This page shows one of the articles in the book, which is about “Method”
+* https://github.com/mckdh/OT_OOP_Book/wiki
+* This page shows one of the articles in the book, which is about “Method”
 
 ## Install this project
 1. Download this project through “Clone or download” button.
