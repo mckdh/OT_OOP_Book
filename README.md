@@ -15,7 +15,7 @@
 8. If you can not install this project, you can ask below email.
 
 ## Outline the package of this project
-* hapter3 : The sources for chapter3
+* chapter3 : The sources for chapter3
 * strategy : The sources for strategy pattern
 * state : The sources for state pattern
 * templatemethod : The sources for template method pattern
