@@ -1,4 +1,4 @@
-# Explain this book in English
+# Outline this book and source in English
 
 ## Book preview and table of contents
 * https://github.com/mckdh/OT_OOP_Book/wiki
@@ -15,15 +15,15 @@
 8. If you can not install this project, you can ask below email.
 
 ## Outline the package of this project
-chapter3 : The sources for chapter3
-strategy : The sources for strategy pattern
-state : The sources for state pattern
-templatemethod : The sources for template method pattern
-decorator : The sources for decorator pattern 
+* hapter3 : The sources for chapter3
+* strategy : The sources for strategy pattern
+* state : The sources for state pattern
+* templatemethod : The sources for template method pattern
+* decorator : The sources for decorator pattern 
 
 ## Run this project
-Finding Launcher*.java that has main method in a package.
-Also, finding ~Test.java based has JUnit class, but you need to modify these test codes.
+* Finding Launcher*.java that has main method in a package.
+* Also, finding ~Test.java based has JUnit class, but you need to modify these test codes.
 
 # 한번 읽으면 두번 깨닫는 객체지향 프로그래밍, e비즈북스
 
