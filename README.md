@@ -1,3 +1,54 @@
+# Explain this book in English
+## Install this project
+1. Download this project through “Clone or download” button.
+2. Import this project in the Eclipse or other IDE.
+3. If you want to use InteliJ.
+4. Open the project
+5. Click Project root folder > mouse right button > Open module settings
+6. Maybe, The IDE shows that the SDK doesn’t match.
+7. Click Module SDK and choose the SDK that you use.
+8. If you can not install this project, you can ask below email.
+
+## Outline the package of this project
+chapter3 : The sources for chapter3
+strategy : The sources for strategy pattern
+state : The sources for state pattern
+templatemethod : The sources for template method pattern
+decorator : The sources for decorator pattern 
+
+## Run this project
+Finding Launcher*.java that has main method in a package.
+Also, finding ~Test.java based has JUnit class, but you need to modify these test codes.
+
+## Table of contents
+Part 1. The way of turning around
+ Chapter1. The way of turning around for the definition and goal of OOP
+ Chapter2. The way of turning around for the stereotype of OOP
+Part 2. The tools that help OOP
+ Chapter1. The tools of thinking for OOP(Observation, Abstraction, Pattern recognition)
+ Chapter2. UML
+Part 3. The area of OOP
+ Chapter1. The basic elements for OOP
+  Object, Class, Attribute, Method, Constructor
+ Chapter2. The basic technique for OOP
+  Outline, Inheritance, Overloading, Overriding, Polymorphism, Encapsulation, Interface, Delegation
+ Chapter3. The principle for OOP
+	a.	SRP(Single Responsibility Principle)
+	b.	OCP(Open Closed Principle)
+	c.	LSP(Liskov Substitution Principle)
+	d.	ISP(Interface Segregation Principle)
+	e.	DRY(Don’t Repeat Yourself)/DIP(Dependency Inversion Principle)
+Part 4. The depth of design pattern
+ Chapter1 Strategy pattern
+ Chapter2 State pattern
+ Chapter3 Template method pattern
+ Chapter4 Decorator pattern
+Part 5. a Point for OOP
+ Chapter1 a point for OOP
+ Chapter2 Objective-C and Spring Framework
+ Chapter3 RDB
+ Chapter4 Functional Programming
+
 # 한번 읽으면 두번 깨닫는 객체지향 프로그래밍, e비즈북스
 
 이 깃허브 프로젝트는 '한번 읽으면 두번 깨닫는 객체지향 프로그래밍, e비즈북스' 책의 코드와 유익한 정보를 제공합니다.
