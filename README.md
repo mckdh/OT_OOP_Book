@@ -7,12 +7,10 @@
 ## Install this project
 1. Download this project through “Clone or download” button.
 2. Import this project in the Eclipse or other IDE.
-3. If you want to use InteliJ.
-4. Open the project in InteliJ.
-5. Click Project root folder > mouse right button > Open module settings.
-6. Maybe, The IDE shows that the SDK doesn’t match.
-7. Click Module SDK and choose the SDK that you use.
-8. If you can not install this project, you can ask below email.
+3. If you want to use InteliJ, open the project with InteliJ.
+4. Click Project root folder > mouse right button > Open module settings. Error message might pop up saying SDK doesn’t match.
+5. Click Module SDK and choose the SDK that you use.
+6. If you can not install this project, you can ask below email.
 
 ## Outline the package of this project
 * chapter3 : The sources for chapter3
